@@ -1,5 +1,4 @@
 import koa from 'koa';
-import crsf from 'crsf';
 import router from 'koa-router';
 
 let app = new koa();
