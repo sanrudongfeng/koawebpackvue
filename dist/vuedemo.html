@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>vuedemo</title>
+    <script src="../node_modules/vue/dist/vue.min.js"></script>
+</head>
+<body>
+<div id="app-2">
+    <span v-bind:id="id">Inspect me</span>
+</div>
+<script>
+    Vue.component('todo', {
+        template: '<li>This is a todo</li>'
+    })
+    var app2 = new Vue({
+        el: '#app-2',
+        data: {
+            id: 'inspect-me'
+        }
+    })
+</script>
+</body>
+</html>
