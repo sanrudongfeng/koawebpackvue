@@ -6,18 +6,19 @@
     <script src="../node_modules/vue/dist/vue.min.js"></script>
 </head>
 <body>
-<div id="app-2">
-    <span v-bind:id="id">Inspect me</span>
-</div>
+<div id="example">{{msg}}</div>
 <script>
-    Vue.component('todo', {
-        template: '<li>This is a todo</li>'
-    })
-    var app2 = new Vue({
-        el: '#app-2',
+    var vm = new Vue({
+        el: '#example',
         data: {
-            id: 'inspect-me'
+            msg: '123'
         }
+    })
+    vm.msg = 'test';
+    console.log(vm.$el.textContent);
+    vm.$el.textContent === 'new message' // false
+    Vue.nextTick(function () {
+        vm.$el.textContent === 'new message' // true
     })
 </script>
 </body>

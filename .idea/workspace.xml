@@ -2,125 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81db764b-a08a-4ebd-af72-52b70e8e91db" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/components/compent.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/vuedemo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/dist/vue.common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/dist/vue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/dist/vue.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/compiler/codegen/events.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/compiler/codegen/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/compiler/directives/bind.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/compiler/directives/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/compiler/error-detector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/compiler/helpers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/compiler/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/compiler/optimizer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/compiler/parser/entity-decoder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/compiler/parser/filter-parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/compiler/parser/html-parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/compiler/parser/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/compiler/parser/text-parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/components/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/components/keep-alive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/global-api/assets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/global-api/extend.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/global-api/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/global-api/mixin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/global-api/use.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/instance/events.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/instance/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/instance/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/instance/lifecycle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/instance/proxy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/instance/render.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/instance/state.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/observer/array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/observer/dep.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/observer/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/observer/scheduler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/observer/watcher.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/util/debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/util/env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/util/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/util/lang.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/util/options.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/util/props.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/create-component.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/create-element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/helpers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/modules/directives.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/modules/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/modules/ref.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/patch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/core/vdom/vnode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/entries/web-compiler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/entries/web-runtime-with-compiler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/entries/web-runtime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/entries/web-server-renderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/compiler/directives/html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/compiler/directives/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/compiler/directives/model.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/compiler/directives/text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/compiler/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/compiler/modules/class.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/compiler/modules/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/compiler/modules/style.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/class-util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/components/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/components/transition-group.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/components/transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/directives/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/directives/model.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/directives/show.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/modules/attrs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/modules/class.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/modules/dom-props.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/modules/events.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/modules/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/modules/style.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/modules/transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/node-ops.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/patch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/runtime/transition-util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/server/directives/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/server/directives/show.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/server/modules/attrs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/server/modules/class.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/server/modules/dom-props.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/server/modules/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/server/modules/style.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/util/attrs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/util/class.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/util/compat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/util/element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/platforms/web/util/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/server/create-bundle-renderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/server/create-renderer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/server/render-stream.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/server/render.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/server/run-in-vm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/server/write.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/sfc/parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/src/shared/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/types/index.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/types/options.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/types/plugin.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/types/vnode.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/vue/types/vue.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tasks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tasks/db.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/gutest.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/npm-debug.log" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/server/tasks/db.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tasks/db.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/keygrip/package.json" afterPath="$PROJECT_DIR$/node_modules/keygrip/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/koa-convert/package.json" afterPath="$PROJECT_DIR$/node_modules/koa-convert/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/vuedemo.html" afterPath="$PROJECT_DIR$/dist/vuedemo.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/src/server/app.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test/gutest.js" afterPath="$PROJECT_DIR$/src/server/test/gutest.js" />
     </list>
     <ignored path="webpackvue.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -142,7 +29,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.js">
+        <entry file="file://$PROJECT_DIR$/src/server/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -153,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tasks.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tasks.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tasks.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="25">
@@ -164,10 +51,10 @@
         </entry>
       </file>
       <file leaf-file-name="db.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tasks/db.js">
+        <entry file="file://$PROJECT_DIR$/src/server/tasks/db.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="125">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -176,7 +63,7 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_modules/koa-static/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
+            <state relative-caret-position="900">
               <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding />
             </state>
@@ -186,8 +73,20 @@
       <file leaf-file-name="compent.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/components/compent.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+              <folding>
+                <element signature="e#220#273#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vuedemo.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dist/vuedemo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -196,7 +95,7 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_modules/koa-static/node_modules/koa-send/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="850">
               <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
               <folding />
             </state>
@@ -233,10 +132,10 @@
         <option value="$PROJECT_DIR$/config/webpack.config.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/test/gutest.js" />
-        <option value="$PROJECT_DIR$/dist/vuedemo.html" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/tasks.js" />
         <option value="$PROJECT_DIR$/tasks/db.js" />
+        <option value="$PROJECT_DIR$/dist/vuedemo.html" />
       </list>
     </option>
   </component>
@@ -249,8 +148,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-26" />
-    <option name="y" value="23" />
+    <option name="x" value="-33" />
+    <option name="y" value="16" />
     <option name="width" value="1616" />
     <option name="height" value="876" />
   </component>
@@ -301,6 +200,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -329,7 +229,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tasks" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -368,7 +272,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -376,7 +279,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="nodejs_interpreter_path" value="D:/project/nodejs/node" />
     <property name="javascript.nodejs.core.library.configured.version" value="6.3.0" />
-    <property name="last_opened_file_path" value="E:/project/guigool" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="D:\project\nodejs\node.exe" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
@@ -387,19 +290,32 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\koawebpackvue\dist\components" />
+      <recent name="F:\koawebpackvue\src\server" />
       <recent name="F:\koawebpackvue\src" />
+      <recent name="F:\koawebpackvue\server" />
+      <recent name="F:\koawebpackvue\dist\components" />
       <recent name="F:\koawebpackvue\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.app">
+  <component name="RunManager" selected="JavaScript Debug.vuedemo.html">
     <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/src/app.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
-    <configuration default="false" name="gutest.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="gutest.js" working-dir="$PROJECT_DIR$/test">
+    <configuration default="false" name="gutest.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/src/server/test/gutest.js" working-dir="$PROJECT_DIR$/src/server/test">
       <method />
     </configuration>
     <configuration default="false" name="vuedemo.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/koawebpackvue/dist/vuedemo.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -521,7 +437,9 @@
       <workItem from="1474426996272" duration="7145000" />
       <workItem from="1474505414538" duration="2013000" />
       <workItem from="1474511259483" duration="5535000" />
-      <workItem from="1474591505814" duration="12891000" />
+      <workItem from="1474591505814" duration="14732000" />
+      <workItem from="1474953937818" duration="4272000" />
+      <workItem from="1475046396765" duration="2005000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1474363453269</created>
@@ -534,20 +452,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54376000" />
+    <option name="totallyTimeSpent" value="62494000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-26" y="23" width="1616" height="876" extended-state="0" />
-    <editor active="true" />
+    <frame x="-33" y="16" width="1616" height="876" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24048224" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24048224" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32567567" sideWeight="0.5196324" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.49373433" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7635135" sideWeight="0.49373433" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.59594595" sideWeight="0.48036757" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.59594595" sideWeight="0.48036757" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -605,7 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -614,7 +531,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#220#273#0" expanded="false" />
+            <element signature="e#220#273#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -678,7 +595,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/src/server/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -713,7 +630,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/src/server/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
@@ -816,7 +733,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/gutest.js">
+    <entry file="file://$PROJECT_DIR$/src/server/test/gutest.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
@@ -855,7 +772,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -863,15 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-775">
           <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/vuedemo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -879,13 +786,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="1647" column="0" selection-start-line="1647" selection-start-column="0" selection-end-line="1647" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/koa-static/node_modules/koa-send/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="850">
           <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
           <folding />
         </state>
@@ -895,7 +801,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-489">
           <caret line="88" column="9" selection-start-line="88" selection-start-column="9" selection-end-line="88" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -903,27 +808,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1480">
           <caret line="1132" column="2" selection-start-line="1132" selection-start-column="2" selection-end-line="1132" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/components/compent.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/koa-static/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
+        <state relative-caret-position="900">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/src/server/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -933,18 +829,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tasks/db.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tasks.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/tasks/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/components/compent.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="e#220#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/vuedemo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
           <folding />
         </state>
       </provider>
