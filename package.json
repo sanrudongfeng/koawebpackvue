@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "webpack combine vue",
   "scripts": {
-    "start": "babel-node app.js",
+    "final-stage": "babel-node ./src/app.js",
+    "part-stage":"babel-node app.musicplayer.js",
     "build": "babel src -d lib",
     "bundle": "babel-node tools/run bundle",
     "test": "echo \"Error: no test specified\" && exit 1"
