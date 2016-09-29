@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>musicPlayer page</title>
+    <link rel="stylesheet" type="text/css" src="./plugin/bootstrap/css/bootstrap.min.css">
+    <script src="./plugin/jquery/jquery.min.js"></script>
+</head>
+<body>
+<div id="musicPlayer" style="text-align: center">
+    <audio src="./media/带泪的鱼.mp3" controls></audio>
+</div>
+<!--<script>
+    function musicPlayer(positionAndScale) {
+         $('body').append('<div id="musicPlayer" style="text-align: center">111111</div>');
+        this.defaultPositionAndScale = {width:$(window).width()/4,height:$(window).height()/5,left:$(window).width()*0.6,top:$(window).height()*0.2};
+        console.log('Object.assign(this.defaultPositionAndScale,positionAndScale',Object.assign(this.defaultPositionAndScale,positionAndScale));
+        function init(){
+            this.setPositionAndScale(Object.assign(this.defaultPositionAndScale,positionAndScale));
+            this.setStyle();
+        }
+        //init();
+    }
+    // just set scale and position
+    musicPlayer.prototype.setPositionAndScale = function (opt) {
+        $('#musicPlayer').css('width',opt.width);
+        $('#musicPlayer').css('height', opt.height);
+        $("#musicPlayer").offset({top: opt.top, left: opt.left})
+    }
+    musicPlayer.prototype.setStyle = function(opt){
+
+    }
+    //可以自定义外观样式,music.prototype.setStyle(){}
+     var musicPlayer = new musicPlayer();
+</script>-->
+</body>
+</html>
