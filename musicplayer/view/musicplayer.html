@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <title>musicPlayer page</title>
-    <link rel="stylesheet" type="text/css" href="/plugin/bootstrap/css/bootstrap.min.css">
+    <!--<link rel="stylesheet" type="text/css" href="/plugin/bootstrap/css/bootstrap.min.css">-->
     <script src="/plugin/jquery/jquery.min.js"></script>
     <style>
         @font-face {font-family: 'iconfont';
@@ -16,10 +16,118 @@
         }
         .iconfont{
             font-family:"iconfont" !important;
-            font-size:16px;font-style:normal;
+            font-size:20px;font-style:normal;
+            color:#fff;
             -webkit-font-smoothing: antialiased;
             -webkit-text-stroke-width: 0.2px;
             -moz-osx-font-smoothing: grayscale;}
+        .musicPlayer{
+            height:200px;
+            width: 500px;
+            float: right;
+        }
+        .container{
+            width: 100%;
+            height: 100%;
+
+        }
+        .header{
+            position: relative;
+            height:20%;
+            width: auto;
+            background-color: #0f0f0f;
+            border-radius: 10px 10px 0 0 ;
+        }
+        .header i{
+            margin:0 3px;
+
+        }
+        .center-content{
+            height:80%;
+            width:auto;
+            border-radius: 0px 0px 10px 10px ;
+            background-color: #2a6496;
+        }
+        .head-L{
+            float: left;
+            width: 25%;
+            height: 60%;
+            text-align: center;
+            margin-top: 8px;
+            border-right:1px solid #4b7598 ;
+        }
+        .head-C{
+            position: relative;
+            float: left;
+            width: 50%;
+            height: 60%;
+            margin-top: 8px;
+            border-right: 1px solid #4b7598;
+        }
+        .music-loading{
+            position: absolute;
+            left: 10px;
+            top: 23px;
+            width:80%;
+            height: 2px;
+            background-color: #959595;
+        }
+        .music-name{
+            color:#fff;
+            font-size: 12px;
+            margin: 10px 0 0 18px;
+        }
+        .circle{
+            position: absolute;
+            top:18px;
+            left:10px;
+            width: 10px;
+            height: 10px;
+            border-radius: 100%;
+            background-color: #dac508;
+        }
+        .music-loading-time{
+            float: right;
+            margin:3px 56px 0 0;
+            font-size: 12px;
+            color:#fff;
+        }
+        .audio-icon{
+            display: inline-block;
+            position: absolute;
+            top:10px;
+            right: 5px;
+            text-decoration: none;
+        }
+        .audio-icon i{
+            font-size: 16px;
+        }
+        .head-R{
+            float: left;
+            width: 24%;
+            height: 100%;
+        }
+        .head-R span i{
+            margin: 0 6px;
+            line-height: 2;
+        }
+        .center-L{
+            float: left;
+            width: 25%;
+            height: 100%;
+
+        }
+        .center-C{
+            float: left;
+            width: 50%;
+            height: 100%;
+
+        }
+        .center-R{
+            float: left;
+            width: 25%;
+            height: 100%;
+        }
     </style>
 </head>
 <body>
@@ -30,18 +138,39 @@
     <i class="iconfont">&#xe66a;</i><br>
 </div>
 
-<div id="musicPlayer" style="text-align: center" class="container">
-    <div class="row">
-        <div class="col-md-3">
-            <audio src="/media/带泪的鱼.mp3" controls></audio>
-        </div>
-        <div class="col-md-6"></div>
-        <div class="col-md-3"></div>
-    </div>
-    <div class="row">
-        <div class="col-md-3"></div>
-        <div class="col-md-6"></div>
-        <div  id='musiclist' class="col-md-3"></div>
+<div id="musicPlayer" class="musicPlayer" style=";">
+    <div class="container">
+        <section class="header">
+            <div class="head-L">
+                <i class="iconfont">&#xe665;</i>
+                <i class="iconfont"  style="display:none">&#xf0032;</i>
+                <i class="iconfont">&#xe78a;</i>
+                <i class="iconfont">&#xe67e;</i></div>
+            <div class="head-C">
+                <span class="music-name">歌名</span>
+                <span class="music-loading"></span>
+                <span class="circle"></span>
+                <span class="music-loading-time">10:23</span>
+                <a href="#" class="audio-icon"><i class="iconfont">&#xe619;</i></a>
+            </div>
+            <div class="head-R">
+                <span>
+                    <i class="iconfont" >&#xe83c;</i>
+                </span>
+                <span>
+                    <i class="iconfont" >&#xe602;</i>
+                </span>
+                <span>
+                    <i class="iconfont">&#xe6ac;</i>
+                </span>
+            </div>
+        </section>
+        <section class="center-content">
+            <div class="center-L"></div>
+            <div class="center-C"></div>
+            <div class="center-R"></div>
+        </section>
+        <section class="footer"></section>
     </div>
 </div>
 <!--<script>
@@ -68,9 +197,31 @@
      var musicPlayer = new musicPlayer();
 </script>-->
 <script>
-    $('#musicPlayer').css('width',$(window).width()/4);
-    $('#musicPlayer').css('height',$(window).height()/5);
-    $("#musicPlayer").offset({top:$(window).width()*0.6, left:$(window).height()*0.2})
+    $("#musicPlayer").offset({top:$(window).height()*0.1, left:$(window).width()*0.6})
+   /* $('#musicPlayer').css('width',$(window).width()/3);
+    $('#musicPlayer').css('height',$(window).height()/4);
+    $("#musicPlayer").offset({top:$(window).height()*0.1, left:$(window).width()*0.6})
+     $(window).resize(function() {
+         $('#musicPlayer').css('width',$(window).width()/3);
+         $('#musicPlayer').css('height',$(window).height()/4);
+         $("#musicPlayer").offset({top:$(window).height()*0.1, left:$(window).width()*0.6})
+     });*/
+    $(function(){
+        //请求歌曲列表、歌词列表
+        $.ajax({
+            type:'POST',
+            url:'/musicPlayer/list',
+            data:{},
+            success:function(res){
+                console.log(res);
+                if(res.code===0){
+                }
+
+            }
+
+
+        })
+    })
 </script>
 </body>
 </html>

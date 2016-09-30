@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81db764b-a08a-4ebd-af72-52b70e8e91db" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/musicplayer/public/plugin/iconfont/iconfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/musicplayer/public/plugin/iconfont/iconfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/musicplayer/public/plugin/iconfont/iconfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/musicplayer/public/plugin/iconfont/iconfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/router/moduleRouter/index.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/npm-debug.log" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/router/moduleRouter/media/带泪的鱼.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/npm-debug.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/musicplayer/public/plugin/iconfont/iconfont.eot" afterPath="$PROJECT_DIR$/musicplayer/public/plugin/iconfont/iconfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/musicplayer/public/plugin/iconfont/iconfont.ttf" afterPath="$PROJECT_DIR$/musicplayer/public/plugin/iconfont/iconfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/musicplayer/public/plugin/iconfont/iconfont.woff" afterPath="$PROJECT_DIR$/musicplayer/public/plugin/iconfont/iconfont.woff" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.musicplayer.js" afterPath="$PROJECT_DIR$/app.musicplayer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/musicplayer/public/plugin/iconfont/iconfont.svg" afterPath="$PROJECT_DIR$/musicplayer/public/plugin/iconfont/iconfont.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/musicplayer/view/musicplayer.html" afterPath="$PROJECT_DIR$/musicplayer/view/musicplayer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/router/index.js" afterPath="$PROJECT_DIR$/router/index.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/router/moduleRouter/musicplayerRouter.js" afterPath="$PROJECT_DIR$/router/moduleRouter/musicplayerRouter.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/media/带泪的鱼.mp3" afterPath="$PROJECT_DIR$/musicplayer/public/media/带泪的鱼.mp3" />
     </list>
     <ignored path="webpackvue.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,24 +53,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="musicPlayerRouter.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="musicPlayerRouter.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/router/moduleRouter/musicPlayerRouter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+            <state relative-caret-position="150">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="musicplayer.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="musicplayer.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/musicplayer/view/musicplayer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+            <state relative-caret-position="134">
+              <caret line="212" column="36" selection-start-line="212" selection-start-column="36" selection-end-line="212" selection-end-column="36" />
               <folding>
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1475218146292" expanded="true" signature="1865:1883" ph="..." />
+                <element signature="n#style#0;n#i#1;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1475228394384" expanded="true" signature="5248:5266" ph="..." />
               </folding>
             </state>
           </provider>
@@ -148,8 +144,8 @@
         <option value="$PROJECT_DIR$/app.musicplayer.js" />
         <option value="$PROJECT_DIR$/router/index.js" />
         <option value="$PROJECT_DIR$/router/moduleRouter/index.js" />
-        <option value="$PROJECT_DIR$/router/moduleRouter/musicPlayerRouter.js" />
         <option value="$PROJECT_DIR$/musicplayer/view/musicplayer.html" />
+        <option value="$PROJECT_DIR$/router/moduleRouter/musicPlayerRouter.js" />
       </list>
     </option>
   </component>
@@ -162,8 +158,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="107" />
-    <option name="y" value="72" />
+    <option name="x" value="145" />
+    <option name="y" value="24" />
     <option name="width" value="1616" />
     <option name="height" value="792" />
   </component>
@@ -323,13 +319,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\koawebpackvue\router\moduleRouter" />
       <recent name="F:\koawebpackvue\musicplayer\public" />
       <recent name="F:\koawebpackvue\musicplayer\public\plugin\iconfont" />
-      <recent name="F:\koawebpackvue\router\moduleRouter" />
       <recent name="F:\koawebpackvue" />
       <recent name="F:\koawebpackvue\musicplayer\view" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\koawebpackvue" />
+      <recent name="F:\koawebpackvue\musicplayer\public\plugin\iconfont" />
       <recent name="F:\koawebpackvue\musicplayer\view" />
       <recent name="F:\koawebpackvue\musicplayer\media" />
       <recent name="F:\koawebpackvue\musicplayer\plugin" />
@@ -500,7 +498,7 @@
       <workItem from="1474953937818" duration="4272000" />
       <workItem from="1475046396765" duration="3304000" />
       <workItem from="1475112521969" duration="19150000" />
-      <workItem from="1475196673381" duration="9842000" />
+      <workItem from="1475196673381" duration="21131000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1474363453269</created>
@@ -513,10 +511,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92785000" />
+    <option name="totallyTimeSpent" value="104074000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="107" y="72" width="1616" height="792" extended-state="0" />
+    <frame x="145" y="24" width="1616" height="792" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24048224" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -524,9 +522,9 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32567567" sideWeight="0.5196324" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.49373433" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31554878" sideWeight="0.49373433" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.49373433" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35060975" sideWeight="0.48036757" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35060975" sideWeight="0.48036757" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -867,6 +865,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/consolidate/lib/consolidate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="163" column="26" selection-start-line="163" selection-start-column="26" selection-end-line="163" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/moduleRouter/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/router/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
@@ -887,38 +901,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/router/moduleRouter/index.js">
+    <entry file="file://$PROJECT_DIR$/musicplayer/view/musicplayer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/consolidate/lib/consolidate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="163" column="26" selection-start-line="163" selection-start-column="26" selection-end-line="163" selection-end-column="26" />
-          <folding />
+        <state relative-caret-position="134">
+          <caret line="212" column="36" selection-start-line="212" selection-start-column="36" selection-end-line="212" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#i#1;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1475228394384" expanded="true" signature="5248:5266" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/router/moduleRouter/musicPlayerRouter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        <state relative-caret-position="150">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/musicplayer/view/musicplayer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1475218146292" expanded="true" signature="1865:1883" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>

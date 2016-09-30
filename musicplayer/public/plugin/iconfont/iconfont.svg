@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg">
 <metadata>
-Created by FontForge 20120731 at Fri Sep 30 11:06:02 2016
+Created by FontForge 20120731 at Fri Sep 30 17:41:55 2016
  By admin
 </metadata>
 <defs>
@@ -60,13 +60,12 @@ t160 65q84 0 150 -65l26 -30l20 -24l19 25q3 4 13 16q11 13 12 15q64 63 150 63q94 0
 d="M448 288l448 -448v896zM128 736h256v-896h-256v896z" />
     <glyph glyph-name="uniE67E" unicode="&#xe67e;" 
 d="M576 288l-448 -448v896zM640 736h256v-896h-256v896z" />
-    <glyph glyph-name="uniE6B3" unicode="&#xe6b3;" 
-d="M947 315h-870q-26 0 -44 20t-18 49t18 49t44 20h870q26 0 44 -20t18 -49t-18 -49t-44 -20zM947 660h-870q-26 0 -44 20.5t-18 49t18 48.5t44 20h870q26 0 44 -20t18 -48.5t-18 -49t-44 -20.5zM77 108h870q26 0 44 -20.5t18 -49t-18 -48.5t-44 -20h-870q-26 0 -44 20
-t-18 48.5t18 49t44 20.5z" />
+    <glyph glyph-name="uniE6AC" unicode="&#xe6ac;" 
+d="M915.5 595.5q-9.5 9.5 -22.5 9.5t-23 -10l-358 -374l-358 374q-10 10 -23 10t-22.5 -9.5t-9.5 -24t10 -24.5l403 -419l45 48l358 374q10 8 10 22t-9.5 23.5z" />
+    <glyph glyph-name="uniE72D" unicode="&#xe72d;" 
+d="M512 213l360 -359h72l-432 432l-432 -432h72z" />
     <glyph glyph-name="uniE78A" unicode="&#xe78a;" 
 d="M153 732q0 10 8 14.5t16 -0.5l687 -433q7 -4 7 -13t-7 -13l-687 -433q-8 -5 -16 -0.5t-8 14.5v864z" />
-    <glyph glyph-name="uniE7FF" unicode="&#xe7ff;" 
-d="M512 144l-410 306l-76 -103l486 -363l486 363l-76 103zM0 704h1024v-128h-1024v128z" />
     <glyph glyph-name="uniE83C" unicode="&#xe83c;" 
 d="M740 449h58v-94l162 166l-162 163v-108h-58q-34 0 -67 -8t-58 -18.5t-53 -31.5t-46 -37t-43 -45t-37.5 -45t-36.5 -48q-4 -5 -11 -15q-28 -36 -42 -54.5t-40 -46t-45.5 -41t-47 -24t-55.5 -10.5h-94v-126h94q33 0 65 7.5t56.5 18.5t51.5 31.5t45 36t42 44t37 45t36 46.5
 q5 8 8 11q29 39 44 58t42 48t47.5 42.5t49 24t58.5 10.5zM306 377q18 23 22 28q39 52 56 72q-103 97 -226 97h-94v-126q27 1 94 0q46 -1 79.5 -18.5t68.5 -52.5zM798 151h-58q-81 0 -156 79q-5 -6 -14 -18q-42 -56 -64 -82q107 -105 234 -105h58v-109l162 163l-162 166v-94z
