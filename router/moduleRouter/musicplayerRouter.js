@@ -1,12 +1,11 @@
 
 
-function musicplayer(router){
-    
-    
-    
-router.get('/',async (ctx,next)=>{
+function musicPlayer(router){
+    router.prefix('/musicPlayer');
+    router.get('/',async (ctx,next) =>{
+        console
         await ctx.render('musicplayer.html',{});
     });
 }
-module.exports =  musicplayer
+export default musicPlayer
 

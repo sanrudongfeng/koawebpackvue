@@ -6,13 +6,12 @@ import views from 'koa-views';
 import router from './router';
 
 
-
 let app = new koa();
 //三者有一定顺序
 app.use(views(__dirname + '/musicplayer/view', {
     map: {
         html: 'underscore',
-        ejs:'ejs'
+        ejs: 'ejs'
     }
 }));
 
@@ -20,9 +19,7 @@ app.use(bodyParser());
 
 app.use(convert(statics('./musicplayer/public')));
 
-app
-    .use(router.routes())
-    .use(router.allowedMethods());
-
+//路由，只用传递一个即可
+router(app);
 app.listen(3000);
 
